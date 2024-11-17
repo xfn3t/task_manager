@@ -22,6 +22,11 @@ Start in docker-compose
 docker-compose up --build
 ```
 
+## Base endpoints
+
+You can also check out the endpoints at Swagger after start project
+
+http://localhost:8080/swagger-ui/index.html
 
 ## Table of Contents
 
