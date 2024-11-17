@@ -2,7 +2,7 @@
 
 Welcome to the Task Tracker API! This API allows you to manage tasks, statuses, comments, and user authentication. Below you will find detailed information about the available endpoints and how to use them.
 
-## Start woth docker-compose
+## Start with docker-compose
 
 Clone repository to local
 
